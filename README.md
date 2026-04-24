@@ -1,14 +1,20 @@
-# Hi, I'm Mohammad Al-Hammouri 👋
+# Mohammad Al-Hammouri
 
-🎓 Software Engineering Student  
-📱 Building mobile apps with Flutter & Kotlin | Exploring backend with ASP.NET  
-🌍 Based in Amman, Jordan  
-🚀 Seeking an internship to grow and contribute to real-world projects  
-📋 Preparing for CAPM certification to strengthen my Project Management career
+**Software Engineering Student | Mobile & Backend Developer in Training | Aspiring Project Manager**
+
+Bachelor's student in Software Engineering, based in Amman, Jordan.
+Focused on building practical skills in mobile development, backend systems, and software project management.
+Currently preparing for the CAPM certification and seeking an internship where I can contribute and grow professionally.
 
 ---
 
-## 🛠️ Technologies & Skills
+## Education
+
+🎓 **B.Sc. Software Engineering** — Al-Ahliyya Amman University *(2023 – 2027)*
+
+---
+
+## Technical Skills
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,38 +34,41 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**  
+**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-- 🍞 **[Bakery Shop Application](https://github.com/Hammouri1/Bakery-Shop-Application)** — Desktop bakery management app built with C# and Windows Forms. Implements OOP principles, File I/O for data persistence, and a clean UI using the .NET framework.
-- 🔢 **Unit Converter** — A Kotlin app to convert between units
-- 🎵 **Ableton Clone** — An HTML/CSS clone of the Ableton website
-
----
-
-## 📜 Certificates
-
-- 📱 Mobile Application Development using Flutter
-- 🤖 Generative AI: Introduction and Applications
-- 🧪 Software Testing with Generative AI
-- 🧪 Introduction to Software Testing
-- 🌐 English C1 CEFR
+| Project | Description | Technologies |
+|---|---|---|
+| [Bakery Shop Application](https://github.com/Hammouri1/Bakery-Shop-Application) | Desktop bakery management system with OOP principles, File I/O, and a user-friendly UI | C#, Windows Forms, .NET |
+| Unit Converter | Mobile application for unit conversion | Kotlin |
+| Ableton Clone | Front-end clone of the Ableton website | HTML, CSS |
 
 ---
 
-## 📊 GitHub Stats
+## Certifications
+
+- Mobile Application Development using Flutter
+- Generative AI: Introduction and Applications
+- Software Testing with Generative AI
+- Introduction to Software Testing
+- English Proficiency — C1 CEFR
+- CAPM *(In Progress)*
+
+---
+
+## GitHub Stats
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammouri1&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Reach Me
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hammouri-)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammourimohammad26@gmail.com)
